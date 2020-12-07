@@ -5,3 +5,4 @@ Simulating project structure
 2.Auth Password
 3.Auth forgot password
 4.Auth Signup
+5.SignUp bugfix done
